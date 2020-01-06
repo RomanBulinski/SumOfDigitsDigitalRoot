@@ -1,0 +1,2 @@
+# SumOfDigitsDigitalRoot
+Code Wars kata
